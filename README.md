@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kuzu99
-- 👀 I’m interested in VR Game.
-- 🌱 I’m currently learning nothing :( 
-  - 📝 📈 I'm going to learn a lot of programing from now on!
+- 👀 I’m interested in Game. Apex, Splatoon2, 
+- 🌱 I’m currently learning WebApplication!, frontend, backend, infrastructure
 - 💞️ I’m looking to collaborate with a lot of friend
 - 📫 If you want to contact us, please contact us on twitter
 
